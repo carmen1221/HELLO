@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Pavanam');
+
+h1 {font-size: 100px;}
+
+.header{
+    background: url(img/7.jpg);
+    padding: 10px;
+    font-family:pavanam;
+    color: white;
+    font-size: 50px; 
+    background-size: cover;
+}
+.aboutme{
+    border-style:solid;
+    border-color: white;
+}
+
+.metext{
+    font-family:pavanam;
+    font-size:20px;
+    width: 450px; 
+    padding: 5px;
+    padding-top: 20px;
+    padding-left: 40px
+}
+
+.img{
+    float:right;
+}
+ 
+ 
+    
