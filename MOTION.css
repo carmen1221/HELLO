@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Pavanam');
+
+h1 {font-size: 100px;}
+
+.header{
+    background: url(img/7.jpg);
+    padding: 10px;
+    font-family:pavanam;
+    color: white;
+    font-size: 50px; 
+    background-size: cover;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: none;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: none;
+}
+
+.active {
+    background-color: none;
+}
+
+.nav{
+    font-family: pavanam;
+    font-size: 25px;
+}
+
+.motion{
+    font-family: pavanam;
+    font-size: 45px;
+}
+
+.img{
+    margin-left: 100px;
+    padding-top: 20px;
+}
+
+.text{
+    width: 400px;
+    font-family: pavanam;
+    font-size: 20px;
+    margin-left: 900px;
+    margin-top: -500;
+}
+
+.img1{
+    padding: 100px;
+    
+}
